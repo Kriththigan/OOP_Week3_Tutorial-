@@ -1,5 +1,5 @@
 public class Main {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         Employee emp = new Employee("Ted White", 25000.00);
 
         System.out.println("Name:" + emp.getName());
